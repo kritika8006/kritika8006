@@ -43,11 +43,16 @@
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white)
 
 ### 🤖 AI / ML
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=plastic&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=plastic&logo=huggingface&logoColor=black)
 
 ### 🛡️ Cyber Security
 ![OSINT](https://img.shields.io/badge/OSINT-455A64?style=plastic)
@@ -71,6 +76,16 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kritika8006&count_private=true&show_icons=true&theme=github_dark" />
+</div>
+
+<hr/>
+
+<div align="center">
+
+<h2>📈 Coding Activity</h2>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kritika8006&theme=github-compact" />
+
 </div>
 
 <hr/>
