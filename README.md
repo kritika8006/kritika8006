@@ -43,20 +43,39 @@
 ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=plastic&logo=express&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=plastic&logo=redux&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white)
 
 ### 🤖 AI / ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=plastic&logo=matplotlib&logoColor=black)
+![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=plastic&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=plastic&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=plastic&logo=streamlit&logoColor=white)
+![Google_Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white)
 
 ### 🛡️ Cyber Security
 ![OSINT](https://img.shields.io/badge/OSINT-455A64?style=plastic)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=plastic&logo=nmap&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=plastic&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=plastic&logo=powershell&logoColor=white)
+
+### 🛠️ Other Tools
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=plastic&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
 
 <hr/>
 
@@ -91,8 +110,8 @@
 <hr/>
 
 <div align="center">
-<h2>🌟 Highlights</h2>
+<h2>🌟 Projects & Highlights</h2>
 🎓 <b>Academic:</b> 8.7 CGPA | 94.4% (12th Grade)
 <br>
-🚀 <b>Projects:</b> MindMirrorAI, AI Air Writer, TPO-NITJ Portal, ReWear (Collaborative)
+🚀 <b>Featured Projects:</b> MindMirrorAI, AI Air Writer, TPO-NITJ Portal, ReWear (Collaborative), CSC_NITJ_Web (Collaborative), TripWise, AI-Interview-Stimulator, Code-Chat-AI, Helpyuva, Communication-Link.
 </div>
